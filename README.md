@@ -1,6 +1,6 @@
 VIETNAMESE :
 
-Android 11 TV Edition for Nintendo Switch – LPDevNX Custom Build
+Android 11 Tablet Edition for Nintendo Switch – LPDevNX Custom Build
 Android 11 (Android Tablet Edition) được LPDevNX tùy biến và tối ưu hóa đặc biệt cho Nintendo Switch, mang lại trải nghiệm Android mượt mà, tiện ích và phù hợp cả chơi game lẫn giải trí.
 
 🔹 Tính năng nổi bật:
@@ -22,7 +22,7 @@ Phiên bản này được xây dựng với mục tiêu tối đa hóa trải n
 
 ENG :
 
-Android 11 TV Edition for Nintendo Switch – LPDevNX Custom Build
+Android 11 Tablet Edition for Nintendo Switch – LPDevNX Custom Build
 Android 11 (Android Tablet Edition) is customized and optimized by LPDevNX specifically for Nintendo Switch, providing a smooth, convenient Android experience suitable for both gaming and entertainment.
 
 🔹 Outstanding features:
